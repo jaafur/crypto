@@ -1,7 +1,7 @@
 {
   "name": "crypto_app",
   "version": "0.1.0",
-  "homepage": "http://your-github-jaafur.github.io",
+  "homepage": "http://your-github-jaafur.github.io/crypto",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.1.4",
